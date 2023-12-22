@@ -1,0 +1,52 @@
+Ratio: 3.74600
+Cabool, Missouri and Valona, Georgia are 1170km apart, whereas
+Kabul, Afghanistan and Vlorë, Albania are 4385km apart
+
+Ratio: 7.16333
+Cabool, Missouri and Algiers, Louisiana are 819km apart, whereas
+Kabul, Afghanistan and Algiers, Algeria are 5869km apart
+
+Ratio: 12.77598
+Cabool, Missouri and Algiers, Indiana are 459km apart, whereas
+Kabul, Afghanistan and Algiers, Algeria are 5869km apart
+
+Ratio: 28.61827
+Cabool, Missouri and Oran, Missouri are 217km apart, whereas
+Kabul, Afghanistan and Oran, Algeria are 6223km apart
+
+Ratio: 47.09190
+Cabool, Missouri and La Plata, Missouri are 324km apart, whereas
+Kabul, Afghanistan and La Plata, Argentina are 15241km apart
+
+Ratio: 93.76955
+Cabool, Missouri and Melbourne, Arkansas are 119km apart, whereas
+Kabul, Afghanistan and Melbourne, Victoria, Australia are 11194km apart
+
+Ratio: 105.07779
+Cabool, Missouri and Potosi, Missouri are 147km apart, whereas
+Kabul, Afghanistan and Potosí, Bolivia are 15446km apart
+
+Ratio: 106.49680
+Cabool, Missouri and Cuba, Missouri are 121km apart, whereas
+Kabul, Afghanistan and Cuba, Cuba are 12896km apart
+
+Ratio: 138.58450
+Cabool, Missouri and Lebanon, Missouri are 79km apart, whereas
+Kabul, Afghanistan and Lebanon, Lebanon are 10998km apart
+
+Ratio: 619.71927
+Algiers, Louisiana and Gretna, Louisiana are 3km apart, whereas
+Algiers, Algeria and Gretna Green, United Kingdom are 2079km apart
+
+Ratio: 638.45428
+Melbourne, Kentucky and Moscow, Ohio are 23km apart, whereas
+Melbourne, Victoria, Australia and Moscow, Russia are 14410km apart
+
+Ratio: 951.22589
+Melbourne, Kentucky and Bromley, Kentucky are 18km apart, whereas
+Melbourne, Victoria, Australia and Bromley, Greater London, United Kingdom are 16890km apart
+
+Ratio: 7159.76310
+Watervliet, New York and Troy, New York are 1km apart, whereas
+Watervliet, Belgium and Troy, Ancient world are 5693km apart
+
